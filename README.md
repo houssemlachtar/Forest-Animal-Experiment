@@ -1,7 +1,7 @@
 # Forest-Animal-Experiment
 <p align="center">
 Forest 3D User Experience<br>
-Woods Storytelling
+Storytelling In The Woods
 <br>
 <br>        
 <a href="https://houssemlachtar.github.io/Forest-Animal-Experiment/">
@@ -39,7 +39,7 @@ Install dependencies:
 npm install
 ```
 
-Compile the code for development and start a local server:
+Compile the code for development and start a local server or just use the VS Code extension [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer):
 
 ```
 npm start
